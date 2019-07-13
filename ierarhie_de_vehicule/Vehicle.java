@@ -51,4 +51,9 @@ public abstract class Vehicle {
 				"\n	- capacity: " + this.noPersons + 
 				"\n	- name: " + this.name);
 	}
+	
+	void printTestGit(){
+		System.out.println("Hello Git!");
+	}
+	
 }
